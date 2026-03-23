@@ -1,4 +1,4 @@
-# LING-2801: Neuroscience of Language
+# LING-5151: Language Acquisition
 
 [syllabus](syllabus.md)
 [schedule](syllabus.md)
