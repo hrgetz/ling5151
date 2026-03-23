@@ -1,8 +1,5 @@
 </> YAML
 
-title: Your Name
-description: Teaching and materials
-
-remote_theme: niklasbuschmann/contrast
+theme:just_the_docs
 plugins:
   - jekyll-remote-theme
