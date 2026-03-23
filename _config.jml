@@ -1,5 +1,4 @@
 </> YAML
-
-theme:just_the_docs
-plugins:
-  - jekyll-remote-theme
+title: my homepage
+description: projects and teaching
+theme:just-the-docs
