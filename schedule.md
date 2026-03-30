@@ -1,3 +1,5 @@
+# Schedule
+
 Schedule: Spring 2026
 
 | Class \# | Part 1 Presentations/discussion | Part 2 Background lecture |

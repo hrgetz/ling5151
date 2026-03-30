@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Language Acquisition"
+  navbar:
+    left:
+      - href: syllabus.md
+        text: Syllabus
+      - schedule.md
+format:
+  html:
+    theme: journal
+    toc: true
