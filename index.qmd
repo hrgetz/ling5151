@@ -10,13 +10,9 @@ Spring 2026
 
 This is an interdisciplinary course on child language acquisition designed to introduce students to what is known about the cognitive and neural processes underlying children’s acquisition of language, as well as the scientific process through which this knowledge was constructed. We will cover universals of language acquisition across languages and modalities (signed and spoken); similarities and differences between child and adult language learners; psychological and linguistic theories of the learning process; and the influential (and controversial) idea that humans are born with innate knowledge of language (a “Universal Grammar”). We will explore a range of perspectives on these issues by reading and discussing research papers from psychology, linguistics, neuroscience, and cognitive science. To allow students to engage with all of these perspectives, the course will provide background on relevant research methodologies (e.g. experiments testing infants’ or children’s linguistic knowledge; artificial language learning; brain imaging) as well as practical training on how to read and understand scientific papers in an unfamiliar field. 
 
-
 ## Learning Goals
-
 The course is designed to achieve the following learning outcomes:
-
-* Knowledge of the basic principles, important theoretical issues, and foundational empirical evidence in the field of child language acquisition  
-* Understanding of the scientific process through which such knowledge is constructed   
-* The ability to interpret linguistic, psychological, and neurobiological evidence relevant to language acquisition  
-* The ability to engage critically and constructively with scientific ideas and evidence  
-* An understanding of how research in language acquisition relates to broader societal issues
+1. Knowledge of the basic principles, foundational evidence, and current research challenges in the field of language and the brain
+2. Understanding of the scientific process through which researchers learn about this field
+3. The ability to understand and interpret scientific evidence about language in the brain
+4. An understanding of how research on language and the brain relates to broader societal issues
