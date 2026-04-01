@@ -14,6 +14,7 @@ website:
         text: Schedule
       - href: assignments.qmd
         text: Requirements
+      - href: readings.qmd
       - href: policies.qmd
         text: "Policies"
       - href: resources.qmd
