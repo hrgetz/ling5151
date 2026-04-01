@@ -1,41 +1,180 @@
-# Assignments
+---
+title: "Course Requirements"
+---
 
-**Class engagement and preparation	(not graded)**
+All of these assignments have been developed to support the course's [learning goals](https://hrgetz.github.io/ling5151/syllabus.html#learning-goals). 
 
-I expect you to come to class prepared and to contribute actively to class discussion. Being prepared does not necessarily require reading every word of the assigned papers. This may be different from your other classes, where close reading of texts is expected. I recommended using a specific process to prepare for this class: 
-
-[Heidi's guide to reading the primary literature](https://docs.google.com/document/d/1hTmwYLz4GZE8__fO4rSxkETxuZS4L8SdXZaOwMWutkY/edit?tab=t.0)
-
-| Weight | Assignment | Guidelines | Grading Rubric |
+| Weight | Assignment |
 | -- | -- | -- | -- | -- |
-| 20%| Article presentation  | [👉](https://docs.google.com/document/d/1jG3hXkNPJLaKdRS7XS3FAnlAabnxiiKyW3iuzH6JVhI/edit?tab=t.0)  | [🎯](https://docs.google.com/document/d/1GmP-2HKGJB61bznlgBnWk5EcV_TukAzeiduz9fyFwBw/edit?usp=sharing) |
-| 25%| Take-home assessments  |
+| 20%| [Article presentation](#presentation) |
+| 25%| [Take-home assessments](#assessments) |
 | 5%| One-sentence reading takeaways  |
 | 1%| Preliminary bibliography for literature review  |
-| 4%| Article summaries  | [👉](https://drive.google.com/open?id=1l1Zuq-FsEcJuCWhqRg4ak5WOpl089fGdm1eIEyGh0Ec&usp=drive_copy) | [🎯](https://drive.google.com/open?id=1QymSzc-ycAgxYB91IaZprdsxBquB6LXo1j8Sf7JPA8U&usp=drive_copy) |
-| 15%| Written article evaluations  | [👉](https://drive.google.com/open?id=1Hr-W1lkv0RCmMY6_O5EI_ghJyG--wP5wIoOmeEDOmo4&usp=drive_copy) | [🎯](https://drive.google.com/open?id=1nGuaZ-VP7DzDQ9VUnwQ8UJzbr4pAaC6JPXwMCMP308M&usp=drive_copy) | 
-| 5%| Conceptual outline of literature review  | [👉](https://docs.google.com/document/d/1vUWridu2cm5XqE8IvLId7xFRg6eacvIIFyoNAGkvtMA/edit?tab=t.0) | |
-| 25%| Final paper (literature review)| [👉](https://docs.google.com/document/d/1AYYOriKYn6uD5D2rp3FnzSHGUA023fRgXUDsn6FS2_o/edit?tab=t.0) | 
+| 4%| [Article summaries](#summaries)  |
+| 15%| [Written article evaluations](#evals)  |
+| 5%| [Conceptual outline of literature review](#outline)  |
+| 25%| [Final paper (literature review)](#paper)|
 
 
+# Preparation
 
-# Article Presentation (1 x 20%) {#presentation}
+I expect you to come to class prepared and to contribute actively to class discussion. Being prepared does not necessarily require reading every word of the assigned papers. This may be different from your other classes, where close reading of texts is expected. 
 
-You will be responsible for briefly presenting one paper from the reading list. There is a strict time limit of 10 minutes. Your grade will be based on how accurately and clearly you explained the main contributions of the paper within the time limit. Additional guidance is available here:
+::: {.callout-note}
+# Guide to Reading Papers
+**To prepare for class, I strongly recommend using the specific process outlined in my [guide to reading scientific papers](https://hrgetz.github.io/guide.html).**
+:::
 
-# Take-home assessments {#assessments}
+# Article Presentation  {#presentation}
+
+**Summary**: You will be responsible for briefly presenting one paper from the reading list. There is a strict time limit of 10 minutes. Your grade will be based on how accurately and clearly you explained the main contributions of the paper within the time limit.
+
+**Sign up**: Sign up for an article [here](https://docs.google.com/spreadsheets/d/1thKRPsI7losHMPUIObKJISaxboL5QTnfMmqBukI6nko/edit?gid=0#gid=0).
+
+**Grading**: [Rubric for article presentations](https://docs.google.com/document/d/1GmP-2HKGJB61bznlgBnWk5EcV_TukAzeiduz9fyFwBw/edit?tab=t.0)
+
+
+::: {.callout-tip collapse="true"}
+# Detailed Guidance for Article Presentations
+  
+TIME LIMIT: **There is a 10 minute time limit for presentations of original research articles. This time limit is a very important part of the assignment.** It’s there to force you to focus on the main points of the paper, and to prevent you from getting lost in the details. Many papers can actually be presented in less than 10 minutes. If you can present the main points of the paper in less time, you should.
+
+CONTENT: Your job in this presentation is not to outline the study in detail. Rather**,** your job is to determine the main empirical and theoretical contributions of the paper and explain them to us accurately, clearly, and concisely, without using jargon. Your grade will be based on how accurately and clearly you explained the main contributions of the paper within the time limit.
+
+FORMAT: Please prepare slides that include key figures and tables from the paper. You should have a few additional slides to explain important information that isn’t presented in a figure or table.
+
+Your presentation should consist of the following:
+
+1) Why did the authors do this study? Clearly state the question(s) that they were trying to answer. If there’s background information that we absolutely need to know in order to understand the study, include it here.  
+2) Briefly summarize the study’s design and procedure. That is, tell us how the authors tried to answer their question. You may be able to do this as part of (c) if the authors illustrate the design and procedure in a figure.   
+3) Present the most important figures/tables from the paper and explain what each one shows. You don’t need to present every single figure. If there are a lot, it’s your job to figure out which ones are the most important for understanding the main contributions of the paper, and present just those ones. When you explain a figure/table from the paper, walk us through it, step by step. What is being represented on the Y axis and on the X axis? If there is color-coding, what does each color represent? Make sure to tell us in plain factual terms what the figure shows. (Do not just tell us what the authors say that the figure shows.)  
+4) Give us the take-home message. What are the implications of the results and why is this important? This is where you should mention the authors’ interpretation of their results and say whether you think it’s supported by the data.
+
+:::
+
+
+# Assessments {#assessments}
 Assessment 1 (15%) and Assessment 2 (10%)
 
 There will be two take-home assessments. These are meant to assess (i) your understanding of class material and (ii) your ability to interpret scientific evidence about language acquisition (as represented in tables and figures). You will be presented with figures and tables from papers that we have discussed in class, and you will be asked to comment on and/or summarize each one.
 
 # Integrative Literature Review (55%, scaffolded)
 
-Throughout the semester, you will identify and read 15-20 original research articles about the acquisition of a language other than one of the five most commonly-studied languages. For your final paper, you will synthesize all of the findings in the articles you read and compare and contrast them with what we learned in class. Your paper should substantively engage with major issues that we discussed in class, and should discuss and cite articles from our reading list. 
+Throughout the semester, you will identify and read 15-20 original research articles about the acquisition of a language other than one of the five most commonly-studied languages. For your final paper, you will synthesize all of the findings in the articles you read and compare and contrast them with what we learned in class. Your paper should substantively engage with major issues that we discussed in class, and should discuss and cite articles from our reading list. This project is scaffolded into several parts, see below.
 
-This project is scaffolded into several parts:
+**Sign up**: Sign up for a specific language [here](https://docs.google.com/spreadsheets/d/1M0NTGms90tpp0OqfBiQYo7_bg7nBtAfve2MN1hRMgpE/edit?gid=0#gid=0).
 
-* **Bibliography** (1%): Early in the semester, you will submit a preliminary bibliography for your literature review 
-* **Article summaries** (4%): You will submit short (300-word) summaries of several papers from your bibliography.
-* **Written evaluations** (3 x 5% \= 15%): You will write longer (800-word) evaluations of three additional papers. 
-* **Conceptual Outline** (5%): This should illustrate the planned structure of your paper. It should identify the specific themes, findings, etc., around which you will organize your review of the literature, with papers from your bibliography listed under the relevant sections. 
-* **Final paper** (30%): Finally, you will write a literature review in which you synthesize the findings on your chosen language and integrate these findings with other evidence covered in class. 
+## Bibliography
+**Summary**: Early in the semester, you will submit a preliminary bibliography for your literature review.
+
+**Submission:** Online through Canvas.
+
+## Article summaries {#summaries}
+
+**Summary**: You will submit short summaries of several papers from your bibliography.<br>
+
+**Length**: 300 words maximum.
+
+**Submission**: Online through Canvas. Please submit two files: 1\) your evaluation, and 2\) a PDF of the article you are evaluating.<br>
+
+**Grading**: [Rubric for article summaries](https://drive.google.com/open?id=1QymSzc-ycAgxYB91IaZprdsxBquB6LXo1j8Sf7JPA8U&usp=drive_copy)
+
+::: {.callout-tip collapse="true"}
+
+# Additional guidance for article summaries 
+A factual summary of an original research article should contain several different elements, listed below. 
+
+* Clearly state the specific **research question** that the authors were trying to answer. This will be an empirical question, i.e., a question that can be answered through scientific measurement.  
+* Explain the study’s **methodology**, with enough detail that the reader can understand how the authors reached their conclusions.  
+* State the **results**, in concrete terms, explaining how the independent variable(s) changed the measurements of the dependent variable(s)\*  
+* State the main take-away(s) or **conclusions** (optional). These must be directly supported by the evidence in the paper. If the authors make additional inferences that are not directly supported, you may mention this, but be sure to attribute the inference to the authors rather than presenting the inference as an inescapable conclusion.
+
+Your summary must be completely factual. Do not add your opinion. 
+
+**Resources**
+
+Here are some examples of paper summaries from a previous class: [Paper summary examples](https://docs.google.com/document/d/1FlpPvZCDtzDU_gdCCtjCGJzBSeeELlTb645Nz17eOqQ/edit?tab=t.0)  
+For a review of dependent and independent variables, see [this brief youtube video](https://www.youtube.com/watch?app=desktop&v=G-ji9awH38U).
+:::
+
+
+## Written evaluations {#evals}
+**Summary**: You will write longer (800-word) evaluations of three additional papers. The structure of your evaluation will be similar to that of the “peer reviews” authors receive when they submit a manuscript to a scientific journal.
+
+**Length**: 800 words maximum
+
+**Submission**: Submit online through Canvas. Please submit two files: 1\) your evaluation, and 2\) a PDF of the article you are evaluating.
+
+**Grading**: [Rubric for written evaluations](https://docs.google.com/document/d/1nGuaZ-VP7DzDQ9VUnwQ8UJzbr4pAaC6JPXwMCMP308M/edit?tab=t.0). Your grade will be based on *accuracy/comprehension* (have you fully understood the paper?), *clarity* (is your writing clear, and do you sufficiently explain all of the points that you make?), and *the depth and overall quality of your comments* (are they thoughtful, insightful, and constructive?).
+
+::: {.callout-tip collapse="true"}
+
+# Additional guidance for written evaluations
+Please note the following constraints:
+
+* Your review must be *constructive* (see below).  
+* The article that you evaluate must report original empirical research. It must not be a review paper or opinion piece. If you are unsure whether an article reports original research, please ask me.
+
+Your evaluation should have three parts. 
+
+1. **Summary**
+
+First should be a brief summary. Clearly state the question that the authors were trying to answer, give an overview of the study’s methodology, state the most important results, and explain the take-away(s). This part must be completely factual. Do not add your opinion. This section should be short (1 or 2 paragraphs).
+
+2. **Comments (Evaluation)**
+
+In the rest of your evaluation, you should critically and constructively evaluate the paper.\* To do this, you should carefully study every aspect of the paper, including the research question, hypothesis, study design, methodology, and interpretation of results. You should comment specifically on the following:
+
+(a) Strengths of the paper. How does this paper contribute to the field? Remember that a paper does not need to be perfect to be important. If you cannot identify any contributions made by a paper, find a different paper. 
+
+(b) Weaknesses of the paper. Identify and discuss weaknesses, either with the research itself or with the argument that the authors are making.   
+
+   *This part must be constructive*. Please do not just trash the paper. Focus on major issues, such as a methodological confound that would change what one can conclude from a study’s findings. When you identify a weakness, be sure to explain clearly and explicitly why it matters, and say whether you think it is a “fatal flaw” (the authors’ argument entirely collapses when you take this point into account) or just something that should be considered.   
+   Ideally, you should also suggest a way that the authors could address the flaws you point out (e.g., running an additional experiment), but it’s ok if you can’t think of a solution. If you don’t think the authors’ claims are supported by their data, say that here and explain why.   
+3. **Overall impression**
+
+State your overall impression of the paper, trying your best to fairly evaluate its contributions in light of its weaknesses.
+
+(If this were a real peer review, you would also have a section detailing minor issues, where you might point out confusing sentences, suggest graphing the data a different way, and complain that the authors didn’t cite you. Don’t include this section.)
+
+*Note: I am using “the paper” as shorthand for *the empirical research and theoretical argument(s) that are presented in a paper.* Your comments should focus on those things, rather than the actual written prose. 
+
+**Examples**
+
+[Constructive Paper Review - Travis Richardson.pdf](https://drive.google.com/file/d/1BRBFzbtnXwMEgp34cgZyexfjlz0krnI7/view?usp=sharing)  
+[Constructive Paper Review - Sam Knight.pdf](https://drive.google.com/file/d/1LvWVUQVFhsHpK6G1z4ZJ0bwRPdaKGtFQ/view?usp=sharing)
+:::
+
+## Conceptual Outline  {#outline}
+**Summary**: Your outline should illustrate the planned structure of your paper. It should identify the specific themes, findings, etc., around which you will organize your review of the literature, with papers from your bibliography listed under the relevant sections. 
+
+**Submission**: You’ll submit two drafts of this outline. Please submit both of them in the same Outline assignment in Canvas. 
+
+**Grading***:* To get full credit for Draft 1, you need to (1) format your outline as described below, (2) include concrete descriptions of empirical results, and (3) make a good-faith effort to connect to course material. To get full credit for Draft 2, you need to make clear, substantive connections to course material, with thorough and appropriate references.
+
+::: {.callout-tip collapse="true"}
+
+# Additional guidance for Conceptual Outlines
+  
+*NOTE: Before getting started on this assignment, I strongly recommend reviewing the section called **Content and Outline** in [Guidance for literature review (S26)](https://docs.google.com/document/d/1AYYOriKYn6uD5D2rp3FnzSHGUA023fRgXUDsn6FS2_o/edit?tab=t.0), to make sure you understand what I am looking for in your final paper.*
+
+**Outline Draft 1** *(due Thursday, March 26\)*: 
+
+List the 3-5 overarching ideas, areas of focus, or questions that you have identified in your review of the literature. Then, for each of these:
+
+* List the main relevant findings (NOT papers/studies), with references to the appropriate sources. Bullet points are fine, no need for polished prose.  
+* List any connections you’ve made to ideas or evidence that we covered in class, with references to the appropriate sources. Bullet points are fine here too, just make sure you explain the connection.
+
+Your final paper will of course also include an Introduction and Conclusion. Feel free to include these in your outline if you want, but it’s not required. 
+
+*I will not offer extensions on Draft 1*. This is because we will discuss your outlines in class on the day that they are due (see below). I’m happy to offer extensions on Draft 2\.
+
+**Class Discussion** (*Thursday, March 26*): In class, you will discuss your project with a small group of classmates. This is an opportunity to talk through your project out loud, which may help you identify gaps in your own understanding of the evidence. It is also an opportunity to solicit your peers’ ideas about how to connect the findings you’ve read about to the other content of the course.
+
+**Outline Draft 2** (*due Thursday, April 2*): Revise your outline to strengthen the connections to course material. Feel free to incorporate any new ideas or connections that came up during your small group discussion. 
+
+:::
+
+
+## Final Paper {#paper}
+**Summary**: You will write a literature review in which you synthesize the findings on your chosen language and integrate these findings with other evidence covered in class. 

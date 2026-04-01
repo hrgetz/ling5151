@@ -1,10 +1,6 @@
 ---
-title: "LING-5151: Language Acquisition"
+title: "LING-5151: Language Acquisition, Spring 2026"
 ---
-Spring 2026
-
-* [Syllabus](syllabus.md)
-* [Schedule](schedule.md)
 
 ## Course Description
 

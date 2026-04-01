@@ -10,40 +10,11 @@ website:
     contents:
       - href: syllabus.md
         text: Syllabus
+      - href: schedule.md
+      - href: assignments.qmd
       - href: policies.qmd
         text: "Course Policies"
-      - href: assignments.qmd
-      - section: "Weekly Schedule"
-        href: schedule.md
-        contents:
-          - href: week_1.qmd
-            text: "Week 1"
-          - href: week_2.qmd
-            text: "Week 2"
-          - href: week_3.qmd
-            text: "Week 3"
-          - href: week_4.qmd
-            text: "Week 4"
-          - href: week_5.qmd
-            text: "Week 5"
-          - href: week_6.qmd
-            text: "Week 6"
-          - href: week_7.qmd
-            text: "Week 7"
-          - href: week_8.qmd
-            text: "Week 8"
-          - href: week_9.qmd
-            text: "Week 9"
-          - href: week_10.qmd
-            text: "Week 10"
-          - href: week_11.qmd
-            text: "Week 11"
-          - href: week_12.qmd
-            text: "Week 12"
-          - href: week_13.qmd
-            text: "Week 13"
-          - href: week_14.qmd
-            text: "Week 14"
+      - href: resources.qmd
 
 format:
   html:

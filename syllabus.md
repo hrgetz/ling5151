@@ -1,8 +1,11 @@
 
-**Professor**: Heidi Getz, Ph.D., [heidi.getz@georgetown.edu](mailto:heidi.getz@georgetown.edu), Building D, Room 154 (Neurology)/Poulton Hall 223 (Linguistics)  
-**Class schedule**: Thursdays 9:30-12pm, Car Barn 172  
-**Office hours**: By appointment: [https://calendly.com/hrg2/officehours](https://calendly.com/hrg2/officehours)  
-**Prerequisites**: Prior coursework in linguistics, psychology, or cognitive science; or permission of instructor.  
+| | | 
+| --- | --- |
+| **Professor** | Heidi Getz, Ph.D. [heidi.getz@georgetown.edu](mailto:heidi.getz@georgetown.edu) <br> Poulton Hall 223 (Linguistics), Building D, Room 154 (Neurology)  | 
+| **Class schedule** | Thursdays 9:30-12pm, Car Barn 172  | 
+| **Office hours** | By appointment: [https://calendly.com/hrg2/officehours](https://calendly.com/hrg2/officehours)    | 
+| **Prerequisites** | Prior coursework in linguistics, psychology, or cognitive science; or permission of instructor.   | 
+
 
 # **Overview**
 
