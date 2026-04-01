@@ -1,3 +1,8 @@
+---
+title: "LING-5151: Language Acquisition, Spring 2026"
+---
+
+# Basic Information
 
 | | | 
 | --- | --- |
@@ -7,13 +12,11 @@
 | **Prerequisites** | Prior coursework in linguistics, psychology, or cognitive science; or permission of instructor.   | 
 
 
-# **Overview**
-
-## **Course description**
+# **Course description**
 
 This is an interdisciplinary course on child language acquisition designed to introduce students to what is known about the cognitive and neural processes underlying children’s acquisition of language, as well as the scientific process through which this knowledge was constructed. We will cover universals of language acquisition across languages and modalities (signed and spoken); similarities and differences between child and adult language learners; psychological and linguistic theories of the learning process; and the influential (and controversial) idea that humans are born with innate knowledge of language (a “Universal Grammar”). We will explore a range of perspectives on these issues by reading and discussing research papers from psychology, linguistics, neuroscience, and cognitive science. To allow students to engage with all of these perspectives, the course will provide background on relevant research methodologies (e.g. experiments testing infants’ or children’s linguistic knowledge; artificial language learning; brain imaging) as well as practical training on how to read and understand scientific papers in an unfamiliar field. 
 
-## **Learning goals**
+# **Learning goals**
 
 The course is designed to achieve the following learning outcomes:
 
@@ -23,7 +26,7 @@ The course is designed to achieve the following learning outcomes:
 * The ability to engage critically and constructively with scientific ideas and evidence  
 * An understanding of how research in language acquisition relates to broader societal issues
 
-## **Structure**
+# **Structure**
 
 Most classes will be a mix of lecture, discussion, and student presentations. The first half of class will usually include student presentations and group discussion. The second half will include a lecture that provides background and context for the readings you will do for the following class.
 

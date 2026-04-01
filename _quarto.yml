@@ -11,9 +11,11 @@ website:
       - href: syllabus.md
         text: Syllabus
       - href: schedule.md
+        text: Schedule
       - href: assignments.qmd
+        text: Requirements
       - href: policies.qmd
-        text: "Course Policies"
+        text: "Policies"
       - href: resources.qmd
 
 format:

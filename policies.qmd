@@ -1,4 +1,6 @@
-# Course policies
+---
+title: "Course Policies"
+---
 
 ## **Names**
 
