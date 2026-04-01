@@ -17,7 +17,7 @@ Braine, M. D. S. (1971). On two types of models of the internalization of gramma
 
 Byers-Heinlein, K., Burns, T. C., & Werker, J. F. (2010). The roots of bilingualism in newborns. *Psychological Science*, *21*(3), 343–348.  
 
-Cartmill, E. A., Armstrong, B. F., 3rd, Gleitman, L. R., Goldin-Meadow, S., Medina, T. N., & Trueswell, J. C. (2013). Quality of early parent input predicts child vocabulary 3 years later. *Proceedings of the National Academy of Sciences of the United States of America*, *110*(28), 11278–11283.  
+Cartmill, E. A., Armstrong, B. F., 3rd, Gleitman, L. R., Goldin-Meadow, S., Medina, T. N., & Trueswell, J. C. (2013). Quality of early parent input predicts child vocabulary 3 years later. *Proceedings of the National Academy of Sciences*, *110*(28), 11278–11283.  
 
 Casillas, M., Brown, P., & Levinson, S. (2020). Early language experience in a Papuan community. *Journal of Child Language*, *48*, 792–814.  
 
@@ -39,7 +39,7 @@ Gervain, J., Nespor, M., Mazuka, R., Horie, R., & Mehler, J. (2008). Bootstrappi
 
 Gleitman, L. R., & Newport, E. L. (1995). The invention of language by children: Environmental and biological influences on the acquisition of language. In *An Invitation to Cognitive Science* (Vol. 1, pp. 1–24). MIT Press.  
 
-Golinkoff, R. M., Hoff, E., Rowe, M. L., Tamis-LeMonda, C. S., & Hirsh-Pasek, K. (2018). Language Matters: Denying the Existence of the 30-Million-Word Gap Has Serious Consequences. *Child Development*. [https://doi.org/10.1111/cdev.13128](https://doi.org/10.1111/cdev.13128)  
+Golinkoff, R. M., Hoff, E., Rowe, M. L., Tamis-LeMonda, C. S., & Hirsh-Pasek, K. (2018). Language Matters: Denying the Existence of the 30-Million-Word Gap Has Serious Consequences. *Child Development*. 
 
 Kocab, A., Senghas, A., Coppola, M., & Snedeker, J. (2023). Potentially recursive structures emerge quickly when a new language community forms. *Cognition*, *232*, 105261\.  
 
@@ -67,9 +67,9 @@ Newport, E. L., & Getz, H. R. (2025). Language acquisition and the human brain (
 
 Newport, E. L., Gleitman, H., & Gleitman, L. (1977). Mother, I’d rather do it myself: Some effects and non-effects of maternal speech style. In C. E. Snow & C. A. Ferguson (Eds.), *Talking to children: Language input and interaction* (pp. 109–150). Cambridge University Press.  
 
-Newport, E. L., Seydell-Greenwald, A., Landau, B., Turkeltaub, P. E., Chambers, C. E., Martin, K. C., Rennert, R., Giannetti, M., Dromerick, A. W., Ichord, R. N., Carpenter, J. L., Berl, M. M., & Gaillard, W. D. (2022). Language and developmental plasticity after perinatal stroke. *Proceedings of the National Academy of Sciences of the United States of America*, *119*(42), e2207293119.  
+Newport, E. L., Seydell-Greenwald, A., Landau, B., Turkeltaub, P. E., Chambers, C. E., Martin, K. C., Rennert, R., Giannetti, M., Dromerick, A. W., Ichord, R. N., Carpenter, J. L., Berl, M. M., & Gaillard, W. D. (2022). Language and developmental plasticity after perinatal stroke. *Proceedings of the National Academy of Sciences*, *119*(42), e2207293119.  
 
-Perkins, L., & Lidz, J. (2021). Eighteen-month-old infants represent nonlocal syntactic dependencies. *Proceedings of the National Academy of Sciences*, *118*(41). [https://doi.org/10.1073/pnas.2026469118](https://doi.org/10.1073/pnas.2026469118)  
+Perkins, L., & Lidz, J. (2021). Eighteen-month-old infants represent nonlocal syntactic dependencies. *Proceedings of the National Academy of Sciences*, *118*(41).
 
 Petitto, L. A., Holowka, S., Sergio, L. E., & Ostry, D. (2001). Language rhythms in baby hand movements. *Nature*, *413*(6851), 35–36.  
 
@@ -97,7 +97,7 @@ Sperry, D. E., Sperry, L. L., & Miller, P. J. (2019b). Reexamining the verbal en
 
 Supalla, S. J. (1991). Manually Coded English: Modality in Signed Language Development. In P. Siple & S. D. Fischer (Eds.), *Theoretical Issues in Sign Language Research Volume 2: Psychology* (Vol. 2, p. 85 109).  
 
-Weikum, W. M., Oberlander, T. F., Hensch, T. K., & Werker, J. F. (2012). Prenatal exposure to antidepressants and depressed maternal mood alter trajectory of infant speech perception. *Proceedings of the National Academy of Sciences of the United States of America*, *109*(suppl. 2), 17221–17227.  
+Weikum, W. M., Oberlander, T. F., Hensch, T. K., & Werker, J. F. (2012). Prenatal exposure to antidepressants and depressed maternal mood alter trajectory of infant speech perception. *Proceedings of the National Academy of Sciences*, *109*(suppl. 2), 17221–17227.  
 
 Werker, J. F., & Tees, R. C. (1984). Cross-language speech perception: Evidence for perceptual reorganization during the first year of life. *Infant Behavior & Development*, *7*(1), 49–63.  
 

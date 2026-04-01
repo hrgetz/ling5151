@@ -23,3 +23,4 @@ format:
   html:
     theme: journal
     toc: true
+    css: styles.css
